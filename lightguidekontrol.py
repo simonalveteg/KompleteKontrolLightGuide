@@ -22,7 +22,6 @@ def init():
     #Connect to keyboard and switch lights off
     global bufferC
     global kontrol
-    
     kontrol = hid.device()
     # filter connected HID devices and check if keyboard is connected 
     # 0x17cc: Native Instruments. 0x1410: KK S88 MK1.
