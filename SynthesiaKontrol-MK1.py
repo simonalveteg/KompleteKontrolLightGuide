@@ -1,11 +1,4 @@
 # The MIT License
-# 
-# Copyright (c) 2018 Olivier Jacques
-# 
-# Synthesia Kontrol: an app to light the keys of Native Instruments
-#                    Komplete Kontrol MK2 keyboard, driven by Synthesia
-
-
 # Modified to work with MK1 keyboards
 
 import hid
