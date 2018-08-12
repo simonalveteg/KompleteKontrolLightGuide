@@ -9,7 +9,5 @@ Lightguidekontrol.py makes it so that only the key you press lights up, like thi
 (that's not my example but it has the exact same effect on the keyboard)
 
 Discussion threads:
-
 https://www.native-instruments.com/forum/threads/programming-the-guide-lights.320806/
-
 https://www.synthesiagame.com/forum/viewtopic.php?f=16&t=9220
