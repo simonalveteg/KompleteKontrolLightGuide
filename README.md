@@ -1,4 +1,6 @@
 # KompleteKontrolLightGuide
+!! USE THIS INSTEAD: https://github.com/ojacques/SynthesiaKontrol#windows
+
 Python scripts that give you control over the lightguide
 
 SynthesiaKontrol-MK1.py is a modified version of ojacques script that gives Synthesia control over the light guide on your Komplete Kontrol MK1 device., found here: https://github.com/ojacques/SynthesiaKontrol#windows
